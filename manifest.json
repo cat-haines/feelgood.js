@@ -1,8 +1,8 @@
 {
-  "name": "feel good comments",
-  "version": "1.0",
+  "name": "Feel Good Comments",
+  "version": "1.0.1",
   "manifest_version": 2,
-  "description": "Replaces YouTube comments with the message You're Beautiful.",
+  "description": "Replaces YouTube comments with a reminder that You're Beautiful.",
   "icons": {
     "128": "icon_128.png"
   },
