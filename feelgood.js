@@ -4,5 +4,5 @@
 // @match			http://youtube.com/*
 // ==/UserScript==
 
-var commentsDiv = document.getElementById('watch7-discussion');
+var commentsDiv = document.getElementById('watch-discussion');
 commentsDiv.innerHTML = '<div style=\'font-size: 96px;\'>You\'re Beautiful</div>';
